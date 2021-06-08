@@ -1,0 +1,1 @@
+This is Supastooge's first git project
